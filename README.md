@@ -31,8 +31,6 @@ Rust: cargo, rustc (latest stable).
 
 Solana CLI: solana-cli (version 1.18.9 recommended).
 
-Node.js (optional for additional tooling).
-
 A funded Solana keypair on devnet.
 
 ## 🚀 Installation
@@ -62,8 +60,6 @@ Deploy to Devnet:
 bash
 
 solana program deploy target/deploy/solana_liq_pool.so
-
-Note the program ID (e.g., 2SRp5ENH631KzuRGNXWcdLi59pnvKNNoTm37pMRcBH3Q).
 
 🧪 Testing
 Set Up Test Client:
